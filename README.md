@@ -15,5 +15,7 @@ The English-Swedish parallel corpus is derived from the "Tatoeba Project". Tatoe
 ![translations](https://user-images.githubusercontent.com/57295909/184067654-373231c6-9116-47f0-a4a4-39d8272b02c9.png)
 
 
-NOTE: The notebook for this code is unavailable as most of the testing of various models was done locally and hence switching it over to colab seemed like a strenuous ordeal!
+*NOTE:* The notebook for this code is unavailable as most of the testing of various models was done locally and hence switching it over to colab seemed like a strenuous ordeal!
 The raw code for the program is available in the repository!
+
+Additionally, there is also code for evaluating the BLEU score of your model to check its performance present in this repository :)
